@@ -2,7 +2,7 @@
 
 # Company Reception
 
-Company Reception is a powerful visitor management software developed as a final project for an advanced programming course. This software is a testament to the commitment, collaboration, and refined coding skills from a team of ambitious developers, keen on demonstrating their readiness for challenging internships in the field of software development.
+Company Reception is a powerful visitor management software developed as a final project for an advanced programming course. This software is a testament to the commitment, collaboration, and refined coding skills from a team of ambitious university students, keen on demonstrating a GUI final project thats codded in java and has a dalabase set up in sql.
 
 Written in Java, this software adopts advanced programming concepts like data encapsulation, inheritance, graphical user interface, and inner classes, besides leveraging SQL database to store and manage visitor data efficiently.
 
