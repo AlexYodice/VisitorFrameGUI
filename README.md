@@ -29,6 +29,8 @@ The program is initiated by creating a new instance of the `VisitorFrame` class.
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a9b7b844-2cd4-4ecc-b58f-aed7a0e7fff3)
 
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/7f60dd76-42f2-4008-8723-afdd4d6c9f94)
+
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/b554ab45-82be-4e40-ac95-6598a661242a)
 
 ## ScreenShots of SQLs Functionality:
@@ -37,7 +39,6 @@ The program is initiated by creating a new instance of the `VisitorFrame` class.
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a8c491b3-d0aa-4e78-828d-eb1a944e8800)
 
-![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/7f60dd76-42f2-4008-8723-afdd4d6c9f94)
 
 
 
