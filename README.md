@@ -29,15 +29,20 @@ The program is initiated by creating a new instance of the `VisitorFrame` class.
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a9b7b844-2cd4-4ecc-b58f-aed7a0e7fff3)
 
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a7252761-360d-4f03-8036-7626502dd033)
+
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/7f60dd76-42f2-4008-8723-afdd4d6c9f94)
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/b554ab45-82be-4e40-ac95-6598a661242a)
 
 ## ScreenShots of SQLs Functionality:
 
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/41f05819-29ea-4a78-a58b-c920f0e17269)
+
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/5ddd57e4-9597-4273-af25-544269ab2a14)
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a8c491b3-d0aa-4e78-828d-eb1a944e8800)
+
 
 
 
