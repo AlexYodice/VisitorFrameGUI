@@ -23,10 +23,24 @@ public class Main {
         new VisitorFrame();
     }
 }
-![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/6bb68848-15c0-4c64-a933-55cc81107e5a)
-![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/7291144e-5f0e-42fd-a02e-576caae8d7b7)
-![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/021a7e89-6e27-44ea-bef6-1c69274ae4c7)
-![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/664f7690-1ff2-4446-ae21-439fb159b30a)
-![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/dda60abd-6435-4610-a4b5-60a7c7460f82)
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/37f390fc-c10b-47d3-9ca7-b8940cdbcb63)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/0602ee24-59e6-4738-9bdc-5e3f7a15b196)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/88de4e86-2522-4fa9-9a6f-74ab2a039523)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/1e0cff84-aab7-4219-be61-b064b8c257b5)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/93f4bfda-8895-4cf3-9150-665f164e3428)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/e800b28c-f992-4b14-81b2-45d9915666f4)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/7451628d-7847-4482-8ea6-94e47316206c)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/8fdc966c-db62-497c-bdc3-a641d172e10e)
+
+![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/e46a3871-4dfc-4cf2-9e0d-d21d00734e5e)
+
+
 
 
