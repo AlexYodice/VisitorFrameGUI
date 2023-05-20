@@ -23,7 +23,7 @@ One of the key challenges and learning experiences during this project was setti
 
 The program is initiated by creating a new instance of the `VisitorFrame` class.
 
-##ScreenShots:
+## ScreenShots:
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a5a670d8-e424-4677-b790-ac8a61fe858b)
 
