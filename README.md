@@ -23,10 +23,21 @@ One of the key challenges and learning experiences during this project was setti
 
 The program is initiated by creating a new instance of the `VisitorFrame` class.
 
-## ScreenShots:
+## ScreenShots of Guis Functionality:
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a5a670d8-e424-4677-b790-ac8a61fe858b)
 
 ![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a9b7b844-2cd4-4ecc-b58f-aed7a0e7fff3)
+
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/b554ab45-82be-4e40-ac95-6598a661242a)
+
+## ScreenShots of SQLs Functionality:
+
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/5ddd57e4-9597-4273-af25-544269ab2a14)
+
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/a8c491b3-d0aa-4e78-828d-eb1a944e8800)
+
+![image](https://github.com/AlexYodice/VisitorFrameGUI/assets/116100112/7f60dd76-42f2-4008-8723-afdd4d6c9f94)
+
 
 
