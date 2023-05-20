@@ -1,6 +1,6 @@
 ### VisitorFrame
 
-# Company Reception
+# Company Reception GUI
 
 Company Reception is a powerful visitor management software developed as a final project for an advanced programming course. This software is a testament to the commitment, collaboration, and refined coding skills from a team of ambitious university students, keen on demonstrating a GUI final project thats codded in java and has a dalabase set up in sql.
 
