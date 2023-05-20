@@ -21,11 +21,10 @@ One of the key challenges and learning experiences during this project was setti
 
 ## Usage
 
-The software is initiated by creating a new instance of the `VisitorFrame` class.
+The program is initiated by creating a new instance of the `VisitorFrame` class.
 
 ##ScreenShots:
 
-The program is initiated by creating a new instance of the `VisitorFrame` class.
 
 ![image](https://github.com/AlexYodice/VisitorFrame/assets/116100112/8c3099e5-84f6-44b9-a9a1-8e2c082b2a50)
 
